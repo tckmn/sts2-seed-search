@@ -181,7 +181,7 @@ int main(int argc, char* argv[]) {
     UNKNOWN_MAP_POINT = hashcode("unknown_map_point");
     UP_FRONT = hashcode("up_front");
 
-    char seed[11] = {'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 0};
+    char seed[11] = "AAAAAAAAAA";
     int buf[20];
 
     for (;;) {
