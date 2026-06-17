@@ -1,0 +1,5 @@
+to compile:
+  gcc -O3 cleaned.c
+
+useful way to quickly summarize output:
+  ./a.out | head -1000000 | sort | uniq -c
