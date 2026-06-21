@@ -1,5 +1,5 @@
 /*
- * sts2 seed search     tckmn <andy@tck.mn>
+ * sts2 seed search (v0.107.0)      tckmn <andy@tck.mn>
  * extremley messy version (see cleaned.c for something more usable)
  */
 
